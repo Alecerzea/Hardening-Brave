@@ -1,5 +1,4 @@
 # Hardening-Brave
-Few config to harden brave 
 
 Inside normal Brave settiings
 
@@ -9,4 +8,9 @@ Inside normal Brave settiings
 ![Deactivating social media blocking](Images/shields2.png)
 
 Inside brave:flags
-(Images/brave-flags1.jpeg)
+!(Images/brave-flags1.jpeg)
+!(Images/brave-flags2.jpeg)
+!(Images/brave-flags3.jpeg)
+!(Images/brave-flags4.jpeg)
+!(Images/brave-flags5.jpeg)
+!(Images/brave-flags6.jpeg)
