@@ -1,5 +1,7 @@
 # Hardening-Brave
 
+WHILE KEEPING IT USABLE
+
 Inside normal Brave settiings
 
 ![Getting it more private, WHILE BEING USABLE](Images/privacy-security1.png)
