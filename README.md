@@ -8,6 +8,7 @@ Inside normal Brave settiings
 ![Removing TOR and data colllection](Images/privacy-security2.png)
 ![Increasing the enchancements of Brave Shields](Images/shields1.png)
 ![Deactivating social media blocking](Images/shields2.png)
+![Adding Quad9 DNS](Images/Security.png)
 
 Inside brave:flags
 ![shit](Images/brave-flags1.jpeg)
